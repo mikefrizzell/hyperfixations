@@ -2,6 +2,7 @@
 title: We are living in the post-apocalypse
 category: essay
 layout: post
+author: Michael Frizzell
 ---
 ![Scene from the 2007 ice storm](https://gray-ky3-prod.cdn.arcpublishing.com/resizer/oty1Cs3HkEw4XS2dU4B6hR7u5X8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/ATFWT36HJBMZDH5WUYAP6BHLWI.png)
 
