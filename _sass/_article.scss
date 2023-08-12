@@ -63,3 +63,20 @@
   text-decoration: none;
   text-transform: uppercase;
 }
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.book-grid-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.book-cover {
+  max-width: 100%;
+  height: auto;
+}
