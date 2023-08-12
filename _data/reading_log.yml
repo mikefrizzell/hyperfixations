@@ -38,3 +38,13 @@
       genre: "journalism"
       status: "reading"
       cover_url: "https://images-us.bookshop.org/ingram/9780307587831.jpg?height=500&v=v2-b1912382e11818c254a6c9f5188cc783"
+
+- Year: "2022"
+    books:
+      - title:
+        author:
+        category: 
+        genre:
+        format:
+        status:
+        cover_url:

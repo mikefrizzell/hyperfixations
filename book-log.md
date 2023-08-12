@@ -20,10 +20,12 @@ permalink: /book-log/
   
   <h2>Books Read</h2>
   <div>
-    {% assign finished_books = site.data.reading_log.books | where: "status", "finished" | sort: "year" | reverse %}
+       {% assign finished_books = site.data.reading_log.books | where: "status", "finished" | sort: "year" | reverse %}
+    {% assign previous_year = "" %}
     {% for book in finished_books %}
-      {% if forloop.first or book.year != finished_books[forloop.index0 - 1].year %}
+      {% if book.year != previous_year %}
         <h3>{{ book.year }}</h3>
+        {% assign previous_year = book.year %}
       {% endif %}
       <ul>
         <li>{{ book.title }} by {{ book.author }}</li>
