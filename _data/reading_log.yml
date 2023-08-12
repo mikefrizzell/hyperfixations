@@ -1,0 +1,37 @@
+- year: "2023"
+  books:
+    - title: The Conquest of Bread
+      author: Peter Kropotkin
+      category: non-fiction
+      genre: politics
+      format: electronic
+      status: reading
+      cover_url: "https://images-us.bookshop.org/ingram/9780141396118.jpg?height=500&v=v2"
+      star: 
+
+    - title: "Detroit: an American Autopsy"
+      author: Charlie LeDuff
+      category: non-fiction
+      genre: memoir
+      format: paper
+      status: reading
+      cover_url: "https://images-us.bookshop.org/ingram/9780143124467.jpg?height=500&v=v2"
+      star: 
+
+    - title: "The Witches: Salem, 1692"
+      author: Stacy Schiff
+      category: non-fiction
+      genre: history
+      format: audio
+      status: reading
+      cover_url: "https://images-us.bookshop.org/ingram/9780316200592.jpg?height=500&v=v2"
+      star:
+
+    - title: The Fellowship of the Ring
+      author: J.R.R. Tolkien
+      category: fiction
+      genre: fantasy
+      format: paper
+      status: finished
+      cover_url: "https://images-us.bookshop.org/ingram/9780547928210.jpg?height=500&v=v2"
+      star: yes

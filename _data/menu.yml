@@ -1,8 +1,8 @@
 - title: About
-  url: /about.html
+  url: /about
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+- title: Reading Log
+  url: /book-log
 
-- title: Designer
-  url: http://patdryburgh.com
+- title: Contact
+  url: /contact
