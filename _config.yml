@@ -18,7 +18,7 @@ email: mpfrizzell@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   hyperfixations
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://frizz.onrender.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://frizz.onrender.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 github_username:  mikefrizzell
 permalink: /:title
