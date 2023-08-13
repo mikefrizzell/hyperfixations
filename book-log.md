@@ -12,6 +12,7 @@ permalink: /book-log/
         {% if book.status == "reading" %}
           <li class="book-grid-item">
             <img class="book-cover" src="{{ book.cover_url }}" alt="{{ book.title }} by {{ book.author }}">
+            <p>{{ book.title }} by {{ book.author }}</p>
           </li>
         {% endif %}
       {% endfor %}
@@ -20,11 +21,11 @@ permalink: /book-log/
   
   <h2>Books Read</h2>
   <div>
-    {% for entry in site.data.reading_log.books %}
-      <h4>{{ entry.year }}</h4>
-      <p>{{ entry.books | size }} books</p>
+    {% assign books_by_year = site.data.reading_log.books | group_by: "year" %}
+    {% for entry in books_by_year %}
+      <h4>{{ entry.name }}</h4>
       <ul>
-        {% for book in entry.books %}
+        {% for book in entry.items %}
           <li>{{ book.title }} by {{ book.author }}</li>
         {% endfor %}
       </ul>
