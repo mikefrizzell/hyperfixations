@@ -11,7 +11,7 @@
     - title: "Detroit: an American Autopsy"
       author: "Charlie LeDuff"
       category: "non-fiction"
-      genre: "memoir"
+      genre: "journalism"
       format: "paper"
       status: "reading"
       cover_url: "https://images-us.bookshop.org/ingram/9780143124467.jpg?height=500&v=v2"
@@ -39,12 +39,92 @@
       status: "reading"
       cover_url: "https://images-us.bookshop.org/ingram/9780307587831.jpg?height=500&v=v2-b1912382e11818c254a6c9f5188cc783"
 
+      - title: "American Predator: the Hunt for the Most Meticulous Serial Killer of the 21st Century"
+        author: "Maureen Callahan"
+        category: "non-fiction"
+        genre: "true crime"
+        format: "paper"
+        status: "finished"
+        cover_url:
+
+      - title: "The Hobbit: or, There and Back Again"
+        author: "J.R.R. Tolkien"
+        category: "fiction"
+        genre: "fantasy"
+        format: "paper"
+        status: "finished"
+        cover_url:
+
+      - title: "Meditations"
+        author: "Marcus Aurelius"
+        category: "non-fiction"
+        genre: "philosophy"
+        format: "paper"
+        status: "finished"
+        cover_url:
+
+      - title: "Foundation and Empire"
+        author: "Isaac Asimov"
+        category: "fiction"
+        genre: "science fiction"
+        format: "paper"
+        status: "finished"
+        cover_url:
+
+      - title: "Midnight in Chernobyl"
+        author: "Adam Higginbotham"
+        category: "non-fiction"
+        genre: "history"
+        format: "audio"
+        status: "finished"
+        cover_url:
+
+      - title: "Stillness is the Key"
+        author: "Ryan Holiday"
+        category: "non-fiction"
+        genre: "philosophy"
+        format: "audio"
+        status: "finished"
+        cover_url:
+
+      - title: "Second Foundation"
+        author: "Isaac Asimov"
+        category: "fiction"
+        genre: "science fiction"
+        format: "paper"
+        status: "finished"
+        cover_url:
+
+      - title: "When a Killer Calls: a Haunting Story of Murder, Criminal Pofiling, and Justice in a Small Town"
+        author: "John Douglas"
+        category: "non-fiction"
+        genre: "true crime"
+        format: "audio"
+        status: "finished"
+        cover_url:
+
+      - title: "The Fire Next Time"
+        author: "James Baldwin"
+        category: "non-fiction"
+        genre: "philosophy"
+        format: "electronic"
+        status: "finished"
+        cover_url:
+
+      - title: "Blizzard of Glass: the Halifax Explosion of 1917"
+        author: "Sally M. Walker"
+        category: "non-fiction"
+        genre: "history"
+        format: "audio"
+        status: "finished"
+        cover_url:
+
 - Year: "2022"
     books:
-      - title:
-        author:
-        category: 
-        genre:
-        format:
-        status:
+      - title: "Mighty Fitz: the Sinking of the Edmund Fiztgerald"
+        author: "Michael Schumacher"
+        category: "non-fiction"
+        genre: history
+        format: paper
+        status: finished
         cover_url:
