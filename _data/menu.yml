@@ -1,8 +1,8 @@
 - title: About
-  url: "{{ url }}/about"
+  url: "/about"
 
 - title: Reading Log
-  url: "{{ url }}/book-log"
+  url: "/book-log"
 
 - title: Contact
-  url: "{{ url }}/contact"
+  url: "/contact"
