@@ -1,4 +1,22 @@
 books:
+ -  title: "Devil's Knot: the True Story of the West Memphis Three"
+    author: "Mara Leveritt"
+    category: "non-fiction"
+    genre: "true crime"
+    format: "paper"
+    status: "reading"
+    year: 2023
+    cover_url: "https://images-us.bookshop.org/ingram/9780743417600.jpg?height=500&v=v2"
+
+  - title: "Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment"
+    author: "Robert Wright"
+    category: "non-fiction"
+    genre: "philosophy"
+    format: "audio"
+    status: "reading"
+    year: 2023
+    cover_url: "https://images-us.bookshop.org/ingram/9781439195468.jpg?height=500&v=v2"
+
   - title: "The Conquest of Bread"
     author: "Peter Kropotkin"
     category: "non-fiction"
@@ -13,7 +31,7 @@ books:
     category: "non-fiction"
     genre: "journalism"
     format: "paper"
-    status: "reading"
+    status: "finished"
     year: 2023
     cover_url: "https://images-us.bookshop.org/ingram/9780143124467.jpg?height=500&v=v2"
 
@@ -39,7 +57,7 @@ books:
     author: "Tom Kizzia"
     category: "non-fiction"
     genre: "journalism"
-    status: "reading"
+    status: "finished"
     Year: 2023
     cover_url: "https://images-us.bookshop.org/ingram/9780307587831.jpg?height=500&v=v2-b1912382e11818c254a6c9f5188cc783"
 
