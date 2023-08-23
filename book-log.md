@@ -12,7 +12,6 @@ permalink: /book-log/
         {% if book.status == "reading" %}
           <li class="book-grid-item">
             <img class="book-cover" src="{{ book.cover_url }}" alt="{{ book.title }} by {{ book.author }}">
-            <p>{{ book.title }} by {{ book.author }}</p>
           </li>
         {% endif %}
       {% endfor %}
