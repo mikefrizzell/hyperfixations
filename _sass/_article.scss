@@ -81,3 +81,11 @@
   max-width: 100%;
   height: auto;
 }
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+}
+.social-icons a:hover img {
+  opacity: 0.8;
+}
