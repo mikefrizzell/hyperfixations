@@ -71,7 +71,7 @@
 }
 
 .book-grid-item {
-  border: 1px solid #ccc;
+  border: none;
   padding: 15x;
   text-align: center;
   list-style-type: none;
@@ -84,7 +84,8 @@
 
 .social-icons {
   display: flex;
-  gap: 10px;
+  gap: 15px;
+  justify-content: center;
 }
 .social-icons a:hover img {
   opacity: 0.8;
