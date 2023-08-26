@@ -5,7 +5,7 @@ permalink: /book-log/
 ---
 
 <div>
-  <h2>Currently Reading</h2>
+  <h3>Currently Reading</h3>
   <div>
     <ul class="book-grid">
       {% for book in site.data.reading_log.books %}
@@ -18,14 +18,16 @@ permalink: /book-log/
     </ul>
   </div>
   
-  <h2>Books Read</h2>
+  <h3>Books Read</h3>
   <div>
     {% assign books_by_year = site.data.reading_log.books | group_by: "year" %}
     {% for entry in books_by_year %}
       <h4>{{ entry.name }}</h4>
       <ul>
         {% for book in entry.items %}
-          <li>{{ book.title }} by {{ book.author }}</li>
+          {% if book.status == "finished" %}
+          <li><cite>{{ book.title }}</cite> by {{ book.author }}</li>
+          {% endif %}
         {% endfor %}
       </ul>
     {% endfor %}
