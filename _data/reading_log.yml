@@ -1,4 +1,22 @@
 books:
+  - title: "An Indigenous Peoples' History of the United States"
+    author: "Roxanne Dunbar-Ortiz"
+    category: "non-fiction"
+    genre: "history"
+    format: "audio"
+    status: "finished"
+    year: 2023
+    cover_url: ""
+
+  - title: "Textual Scholarship and the Making of the New Testament"
+    author: "David C. Parker"
+    category: "non-fiction"
+    genre: "religion"
+    format: "electronic"
+    status: "reading"
+    year: 2023
+    cover_url: "https://images2.imgbox.com/77/12/c04I1Nq4_o.jpg"
+
   - title: "The Foundling: the True Story of a Kidnapping, a Family Secret, and My Search for the Real Me"
     author: "Paul Joseph Fronczak"
     category: "non-fiction"
@@ -22,7 +40,7 @@ books:
     category: "non-fiction"
     genre: "philosophy"
     format: "audio"
-    status: "reading"
+    status: "finished"
     year: 2023
     cover_url: "https://images-us.bookshop.org/ingram/9781439195468.jpg?height=500&v=v2"
 
@@ -31,7 +49,7 @@ books:
     category: "non-fiction"
     genre: "politics"
     format: "electronic"
-    status: "reading"
+    status: "finished"
     year: 2023
     cover_url: "https://images-us.bookshop.org/ingram/9780141396118.jpg?height=500&v=v2"
 
