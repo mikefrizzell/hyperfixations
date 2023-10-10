@@ -6,4 +6,4 @@ To do:
   - [x] Add name to main menu?
   - [x] Change favicon
   - [ ] Make codeblocks look better
-  - [ ] Create Projects page
+  - [x] Create Projects page
